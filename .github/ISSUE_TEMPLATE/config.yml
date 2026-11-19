@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Test runs and reports
+    url: https://github.com/PlaywrightMasters/Playwright-TypeScript-Framework/actions/workflows/playwright.yml
+    about: Browse the latest test runs and report artifacts before filing an issue.
